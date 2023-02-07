@@ -30,7 +30,7 @@ Below is how the page should looks like
 ### Links
 
 - Solution URL: [https://github.com/filecc/htmlcss-discord](https://github.com/filecc/htmlcss-discord)
-- Live Site URL: [https://filecc.github.io/htmlcss-discord/](hhttps://filecc.github.io/htmlcss-discord/)
+- Live Site URL: [https://filecc.github.io/htmlcss-discord](hhttps://filecc.github.io/htmlcss-discord)
 
 ## My process
 
