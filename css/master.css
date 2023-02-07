@@ -29,10 +29,6 @@
     flex-flow: column wrap;
 }
 
-.flow-row-reverse{
-    flex-flow: row-reverse wrap;
-}
-
 .space-between{
     justify-content: space-between;
 }
@@ -45,6 +41,11 @@
     align-items: center;
 }
 
+.flow-row-reverse{
+    flex-flow: row-reverse wrap;
+}
+
+
 .bg-grey{
     background-color: var(--greyish);
 }
@@ -53,8 +54,21 @@ ul {
     list-style: none;
 }
 
+.btn-primary:hover{
+    color: var(--lightviolet);
+}
+
+.btn-secondary:hover{
+    background-color: #23272A;
+    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
 a{
     text-decoration: none;
+}
+
+.linkHovergin li:hover{
+    text-decoration: underline;
 }
 
 .reset-a :focus, .reset-a :visited, .reset-a :hover, .reset-a :active, .reset-a{
