@@ -169,7 +169,7 @@ main section:first-child{
     
 }
 
-#wave::after{
+.wave::after{
     display: block;
     font-size: 0;
     content: url('../img/wave.svg');
