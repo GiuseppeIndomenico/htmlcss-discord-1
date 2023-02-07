@@ -29,8 +29,8 @@ Below is how the page should looks like
 
 ### Links
 
-- Solution URL: [https://github.com/filecc/htmlcss-discord](https://your-solution-url.com)
-- Live Site URL: [https://filecc.github.io/htmlcss-discord/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/filecc/htmlcss-discord](https://github.com/filecc/htmlcss-discord)
+- Live Site URL: [https://filecc.github.io/htmlcss-discord/](hhttps://filecc.github.io/htmlcss-discord/)
 
 ## My process
 
